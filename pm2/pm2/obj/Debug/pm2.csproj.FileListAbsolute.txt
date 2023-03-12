@@ -1,0 +1,17 @@
+C:\Users\ftp_0\source\repos\pm2\pm2\bin\Debug\pm2.exe.config
+C:\Users\ftp_0\source\repos\pm2\pm2\bin\Debug\pm2.exe
+C:\Users\ftp_0\source\repos\pm2\pm2\bin\Debug\pm2.pdb
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2.csproj.AssemblyReference.cache
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\MainWindow.g.cs
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\App.g.cs
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2_MarkupCompile.cache
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2_MarkupCompile.lref
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\MainWindow.baml
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2.g.resources
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2.Properties.Resources.resources
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2.csproj.GenerateResource.cache
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2.csproj.CoreCompileInputs.cache
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2.exe
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\pm2.pdb
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\Window1.g.cs
+C:\Users\ftp_0\source\repos\pm2\pm2\obj\Debug\Window1.baml

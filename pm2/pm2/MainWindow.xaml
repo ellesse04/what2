@@ -1,0 +1,27 @@
+﻿<Window x:Class="pm2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pm2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400" Background="Gray">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel HorizontalAlignment="Center">
+        <TextBlock FontFamily="Comic Sans Ms" 
+                   FontSize="20" TextWrapping="Wrap">Введите матрицу/спискок смежности</TextBlock>
+        <TextBlock FontFamily="Comic Sans Ms" 
+                   FontSize="20" TextWrapping="Wrap">чтобы посчитать то-то-то-то</TextBlock>
+        </StackPanel>
+
+        <TextBox Grid.Row="1" Height="220" Width="300" AcceptsReturn="True" PreviewTextInput="validation" Name="DataBox"></TextBox>
+
+        <Button Grid.Row="2" Height="30" Width="100" FontFamily="Comic Sans MS" FontSize="15" Click="Button_Click">Посчитать</Button>
+    </Grid>
+</Window>
